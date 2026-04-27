@@ -1,0 +1,43 @@
+/* VHDL syntax highlight only */
+
+#code-block-viewer .cm-content .vhdl-keyword,
+pre .vhdl-keyword {
+  color: #569cd6;
+  font-weight: 600;
+}
+
+#code-block-viewer .cm-content .vhdl-type,
+pre .vhdl-type {
+  color: #4ec9b0;
+}
+
+#code-block-viewer .cm-content .vhdl-function,
+pre .vhdl-function {
+  color: #dcdcaa;
+}
+
+#code-block-viewer .cm-content .vhdl-comment,
+pre .vhdl-comment {
+  color: #6a9955;
+  font-style: italic;
+}
+
+#code-block-viewer .cm-content .vhdl-number,
+pre .vhdl-number {
+  color: #b5cea8;
+}
+
+#code-block-viewer .cm-content .vhdl-string,
+pre .vhdl-string {
+  color: #ce9178;
+}
+
+#code-block-viewer .cm-content .vhdl-char,
+pre .vhdl-char {
+  color: #d7ba7d;
+}
+
+#code-block-viewer .cm-content .vhdl-operator,
+pre .vhdl-operator {
+  color: #ffd166;
+}
